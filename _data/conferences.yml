@@ -1,34 +1,78 @@
 ---
 
-- ICSE 2024:
-  Title: ICSE
-  H-index: Not available
-  Year: 2024
-  ID: Not available
-  Link: https://conf.researchr.org/home/icse-2024
-  Deadline: September 1, 2024, 23:59:59 Etc/GMT-12
-  Date: May 25-31, 2024
-  Place: Virtual
-  Sub: PL
+- icse_2024:
+  title: ICSE
+  h-index: Not available
+  year: 2024
+  id: Not available
+  link: https://conf.researchr.org/home/icse-2024
+  deadline: September 1, 2024, 23:59:59 Etc/GMT-12
+  date: May 25-31, 2024
+  place: Virtual
+  sub: PL
 
-- POPL 2024:
-  Title: POPL
-  H-index: Not available
-  Year: 2024
-  ID: Not available
-  Link: https://popl24.sigplan.org/
-  Deadline: July 12, 2023
-  Date: January 14-20, 2024
-  Place: Institution of Engineering and Technology (IET), Savoy Place, London
-  Sub: PL
+- popl_2024:
+  title: POPL
+  h-index: Not available
+  year: 2024
+  id: Not available
+  link: https://popl24.sigplan.org/
+  deadline: July 12, 2023
+  date: January 14-20, 2024
+  place: Institution of Engineering and Technology (IET), Savoy Place, London
+  sub: PL
 
-- OOPSLA 2024:
-  Title: OOPSLA
-  H-index: Not available
-  Year: 2024
-  ID: Not available
-  Link: Not available
-  Deadline: March 22, 2024
-  Date: October 27 - November 2, 2024
-  Place: Not available
-  Sub: PL
+- oopsla_2024:
+  title: OOPSLA
+  h-index: Not available
+  year: 2024
+  id: Not available
+  link: Not available
+  deadline: March 22, 2024
+  date: October 27 - November 2, 2024
+  place: Not available
+  sub: PL
+
+- issta_2024:
+  title: ISSTA
+  h-index: Not available
+  year: 2024
+  id: Not available
+  link: https://conf.researchr.org/home/issta-2024
+  deadline: Not available
+  date: September 16-20, 2024
+  place: Vienna, Austria
+  sub: PL
+
+- ecoop_2024:
+  title: ECOOP
+  h-index: Not available
+  year: 2024
+  id: Not available
+  link: https://conf.researchr.org/home/ecoop-2024
+  deadline: Not available
+  date: September 16-20, 2024
+  place: Vienna, Austria
+  sub: PL
+
+- ase_2024:
+  title: ASE
+  h-index: Not available
+  year: 2024
+  id: Not available
+  link: https://ase2024.org/
+  deadline: Not available
+  date: November 11-15, 2024
+  place: Not available
+  sub: SE
+
+- splash_2024:
+  title: SPLASH
+  h-index: Not available
+  year: 2024
+  id: Not available
+  link: https://2024.splashcon.org/
+  deadline: Not available
+  date: November 17-22, 2024
+  place: Chicago, Illinois, USA
+  sub: PL
