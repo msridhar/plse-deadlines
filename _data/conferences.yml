@@ -1,67 +1,67 @@
 ---
 
-- title: PLDI
-  hindex: 46
-  year: 2021
-  id: pldi21
-  link: https://conf.researchr.org/home/pldi-2021
+- title: ICSE
+  hindex: 
+  year: 2024
+  id: 
+  link: https://conf.researchr.org/home/icse-2024
   deadline: '2020-11-20 23:59:59'
   timezone: Etc/GMT-12
-  date: June 20-25, 2021
+  date: June 20-25, 2024
   place: Virtual
   sub: PL
 
 - title: ISSTA
   hindex:
-  year: 2021
-  id: issta2021
-  link: https://conf.researchr.org/home/issta-2021
-  deadline: '2021-01-29 23:59:59'
+  year: 2024
+  id: issta2024
+  link: https://conf.researchr.org/home/issta-2024
+  deadline: '2024-01-29 23:59:59'
   timezone: Etc/GMT-12
-  date: July 12-16, 2021
+  date: July 12-16, 2024
   place: Aarhus, Denmark
   sub: SE
 
 - title: POPL
   hindex: 45
-  year: 2021
-  id: popl2021
+  year: 2024
+  id: popl2024
   link: https://popl21.sigplan.org/
   deadline: '2020-07-09 23:59:59'
   timezone: Etc/GMT-12
-  date: January 17-22, 2021
+  date: January 17-22, 2024
   place: Online
   sub: PL
 
 - title: ESEC/FSE
   hindex: 53
-  year: 2021
-  id: fse2021
-  link: https://2021.esec-fse.org/
-  deadline: '2021-02-25 23:59:59'
+  year: 2024
+  id: fse2024
+  link: https://2024.esec-fse.org/
+  deadline: '2024-02-25 23:59:59'
   timezone: Etc/GMT-12
-  date: August 23-27, 2021
+  date: August 23-27, 2024
   place: Athens, Greece
   sub: SE
 
 - title: ASE
   hindex: 45
-  year: 2021
-  id: ase2021
-  link: https://conf.researchr.org/home/ase-2021
-  deadline: '2021-04-16 23:59:59'
+  year: 2024
+  id: ase2024
+  link: https://conf.researchr.org/home/ase-2024
+  deadline: '2024-04-16 23:59:59'
   timezone: Etc/GMT-12
-  date: November 15-19, 2021
+  date: November 15-19, 2024
   place: Melbourne, Australia
   sub: SE
 
 - title: CGO
   hindex: N/A
-  year: 2021
-  id: cgo2021
-  link: https://conf.researchr.org/home/cgo-2021
+  year: 2024
+  id: cgo2024
+  link: https://conf.researchr.org/home/cgo-2024
   deadline: '2020-09-01 23:59:59'
   timezone: Etc/GMT-12
-  date: February 27-March 3, 2021
+  date: February 27-March 3, 2024
   place: Virtual
   sub: PL
