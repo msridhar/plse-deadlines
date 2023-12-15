@@ -22,6 +22,17 @@
   place: Institution of Engineering and Technology (IET), Savoy Place, London
   sub: PL
 
+- title: PLDI
+  hindex: 
+  year: 2024
+  id: pldi2024
+  link: https://pldi24.sigplan.org/
+  deadline: '2023-11-16 23:59:59'
+  timezone: Etc/GMT-12
+  date: June 24-28, 2024
+  place: Copenhagen, Denmark
+  sub: PL
+
 - title: OOPSLA
   hindex: 
   year: 2024
