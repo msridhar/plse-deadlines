@@ -9,4 +9,7 @@ twitter_username: FriendingNimmo
 github_username: madhunimmo
 github_repo: plse-deadlines
 
+markdown: kramdown
+ga_id: UA-36274081-2
+
 include: ['_pages']
