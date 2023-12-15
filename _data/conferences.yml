@@ -5,8 +5,7 @@
   year: 2024
   id: icse2024
   link: https://conf.researchr.org/home/icse-2024
-  deadline(1) : '2023-03-29 23:59:59'
-  deadline(2) : '2023-08-01 23:59:59'
+  deadline : '2023-08-01 23:59:59'
   timezone: Etc/GMT-12
   date: April 14-20, 2024
   place: Virtual
@@ -39,7 +38,7 @@
   year: 2024
   id: issta2024
   link: https://conf.researchr.org/home/issta-2024
-  deadline: 
+  deadline: '2023-12-15 23:59:59'
   date: September 16-20, 2024
   place: Vienna, Austria
   sub: PL
@@ -49,7 +48,7 @@
   year: 2024
   id: ecoop2024
   link: https://conf.researchr.org/home/ecoop-2024
-  deadline: 
+  deadline: '2024-01-17 23:59:59'
   date: September 16-20, 2024
   place: Vienna, Austria
   sub: PL
@@ -58,18 +57,18 @@
   hindex: 
   year: 2024
   id: ase2024
-  link: https://ase2024.org/
-  deadline: 
+  link: https://conf.researchr.org/home/ase-2024
+  deadline: '2024-06-07 23:59:59'
   date: November 11-15, 2024
-  place: 
+  place: Sacramento, California, United States
   sub: SE
 
 - title: SPLASH
   hindex: 
   year: 2024
   id: splash2024
-  link: https://2024.splashcon.org/
-  deadline: 
-  date: November 17-22, 2024
-  place: Chicago, Illinois, USA
+  link: 
+  deadline: '2024-04-05 23:59:59'
+  date: October 20-25, 2024
+  place: Pasadena, California, United States
   sub: PL
