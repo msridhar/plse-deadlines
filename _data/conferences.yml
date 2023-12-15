@@ -5,9 +5,10 @@
   year: 2024
   id: icse2024
   link: https://conf.researchr.org/home/icse-2024
-  deadline: '2024-09-01 23:59:59'
+  deadline(1) : '2023-03-29 23:59:59'
+  deadline(2) : '2023-08-01 23:59:59'
   timezone: Etc/GMT-12
-  date: May 25-31, 2024
+  date: April 14-20, 2024
   place: Virtual
   sub: PL
 
