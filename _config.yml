@@ -1,16 +1,13 @@
-title: PLSE Conference Deadlines # (Maintained by @zhangysh1995)
+title: PLSE Conference Deadlines # (Maintained by @madhunimmo)
 
 description: Countdowns to top PL and SE conference deadlines
-author: Yushan Zhang (forked from @abhshkdz)
+author: Madhurima Chakraborty (forked from @zhangysh1995 who forked from @abhshkdz :P)
 domain: ""
-baseurl: "https://plseddl.github.io/plse-deadlines"
+baseurl: "https://madhunimmo.github.io/plse-deadlines"
 
-twitter_username: 163Zhangysh1995
+twitter_username: friending_nimmo
 twitter_hashtag: softwareresearch
 github_username: plseddl
 github_repo: plse-deadlines
-
-markdown: kramdown
-ga_id: UA-36274081-2
 
 include: ['_pages']
