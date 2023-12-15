@@ -5,9 +5,8 @@ author: Madhurima Chakraborty (forked from @zhangysh1995 who forked from @abhshk
 domain: ""
 baseurl: "https://madhunimmo.github.io/plse-deadlines"
 
-twitter_username: friending_nimmo
-twitter_hashtag: softwareresearch
-github_username: plseddl
+twitter_username: friending_nimmo 
+github_username: madhunimmo
 github_repo: plse-deadlines
 
 include: ['_pages']
