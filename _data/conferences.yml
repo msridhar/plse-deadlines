@@ -1,41 +1,40 @@
 ---
 
-- icse_2024:
-  title: ICSE
-  h-index: Not available
+- title: ICSE
+  hindex: Not available
   year: 2024
   id: Not available
   link: https://conf.researchr.org/home/icse-2024
-  deadline: September 1, 2024, 23:59:59 Etc/GMT-12
+  deadline: '2024-09-01 23:59:59'
+  timezone: Etc/GMT-12
   date: May 25-31, 2024
   place: Virtual
   sub: PL
 
-- popl_2024:
-  title: POPL
-  h-index: Not available
+- title: POPL
+  hindex: Not available
   year: 2024
   id: Not available
   link: https://popl24.sigplan.org/
-  deadline: July 12, 2023
+  deadline: '2023-07-12 23:59:59'
+  timezone: Etc/GMT-12
   date: January 14-20, 2024
   place: Institution of Engineering and Technology (IET), Savoy Place, London
   sub: PL
 
-- oopsla_2024:
-  title: OOPSLA
-  h-index: Not available
+- title: OOPSLA
+  hindex: Not available
   year: 2024
   id: Not available
   link: Not available
-  deadline: March 22, 2024
+  deadline: '2024-03-22 23:59:59'
+  timezone: Etc/GMT-12
   date: October 27 - November 2, 2024
   place: Not available
   sub: PL
 
-- issta_2024:
-  title: ISSTA
-  h-index: Not available
+- title: ISSTA
+  hindex: Not available
   year: 2024
   id: Not available
   link: https://conf.researchr.org/home/issta-2024
@@ -44,9 +43,8 @@
   place: Vienna, Austria
   sub: PL
 
-- ecoop_2024:
-  title: ECOOP
-  h-index: Not available
+- title: ECOOP
+  hindex: Not available
   year: 2024
   id: Not available
   link: https://conf.researchr.org/home/ecoop-2024
@@ -55,9 +53,8 @@
   place: Vienna, Austria
   sub: PL
 
-- ase_2024:
-  title: ASE
-  h-index: Not available
+- title: ASE
+  hindex: Not available
   year: 2024
   id: Not available
   link: https://ase2024.org/
@@ -66,9 +63,8 @@
   place: Not available
   sub: SE
 
-- splash_2024:
-  title: SPLASH
-  h-index: Not available
+- title: SPLASH
+  hindex: Not available
   year: 2024
   id: Not available
   link: https://2024.splashcon.org/
