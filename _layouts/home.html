@@ -242,11 +242,20 @@
         // Get subjects from URL
         var url = new URL(window.location);
         var subs = url.searchParams.get('sub');
-        if (subs == undefined) {
-           subs = store.get('{{ site.domain }}');
+
+        if (!subs || subs.trim() === '') {
+        subs = 'PL,SE';
+        // Update the URL with the default 'sub' value
+        window.history.pushState('', '', '/?sub=' + subs);
         } else {
-           subs = subs.toUpperCase().split(',');
+            subs = subs.toUpperCase().split(',');
         }
+
+        // if (subs == undefined) {
+        //    subs = store.get('{{ site.domain }}');
+        // } else {
+        //    subs = subs.toUpperCase().split(',');
+        // }
         if (subs != undefined) {
           // Hide unchecked subs
           for (var i = 0; i < all_subs.length; i++) {
@@ -261,14 +270,14 @@
         }
         // Get subjects from browser cache
         if (subs === undefined) {
-          subs = all_subs;
-          for (var i = 0; i < subs.length; i++) {
+        subs = all_subs;
+        for (var i = 0; i < subs.length; i++) {
             $('#' + subs[i] + '-checkbox').prop('checked', true);
-          }
+        }
         } else {
-          for (var i = 0; i < subs.length; i++) {
-            $('#' + subs[i] + '-checkbox').prop('checked', true);
-          }
+            for (var i = 0; i < subs.length; i++) {
+                $('#' + subs[i] + '-checkbox').prop('checked', true);
+            }
         }
         store.set('{{ site.domain }}', subs);
         window.history.pushState('', '', '/?sub=' + subs.join());
