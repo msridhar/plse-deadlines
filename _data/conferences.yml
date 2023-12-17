@@ -126,6 +126,72 @@
   place: Porto de Galinhas, Brazil, Brazil
   sub: SE
 
+- title: MSR
+  hindex:
+  year: 2024
+  id: msr2024
+  link: https://2024.msrconf.org/
+  deadline: "2023-11-17 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: April 15-16, 2024
+  place: Portugal, Lisbon
+  sub: SE
+
+- title: EASE
+  hindex:
+  year: 2024
+  id: ease2024
+  link: https://conf.researchr.org/home/ease-2024
+  deadline: "2023-01-18 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: June 18-21, 2024
+  place: Salerno, Italy
+  sub: SE
+
+- title: SANER
+  hindex:
+  year: 2024
+  id: saner2024
+  link: https://conf.researchr.org/home/saner-2024
+  deadline: "2023-10-29 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: March 12-15, 2024
+  place: Rovaniemi , Finland
+  sub: SE
+
+- title: ICSME
+  hindex:
+  year: 2024
+  id: icsme2024
+  link: https://conf.researchr.org/home/icsme-2024
+  deadline: "2024-04-11 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: October 06-11, 2024
+  place: Flagstaff, AZ , USA
+  sub: SE
+
+- title: RE
+  hindex:
+  year: 2024
+  id: re2024
+  link: https://conf.researchr.org/home/RE-2024
+  deadline: "2024-01-24 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: June 24-28, 2024
+  place: Reykjavík, Iceland
+  sub: SE
+
+- title: CHASE
+  hindex:
+  year: 2024
+  id: chase2024
+  link: https://conf.researchr.org/home/chase-2024
+  deadline: "2023-11-10 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: April 14-15, 2024
+  place: Lisbon, Portugal
+  sub: SE
+
 - title: SPLASH
   hindex:
   year: 2024
