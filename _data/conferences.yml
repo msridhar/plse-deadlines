@@ -142,7 +142,7 @@
   year: 2024
   id: ease2024
   link: https://conf.researchr.org/home/ease-2024
-  deadline: "2023-01-18 23:59:59"
+  deadline: "2024-01-18 23:59:59"
   timezone: AoE (UTC-12h)
   date: June 18-21, 2024
   place: Salerno, Italy
@@ -191,6 +191,30 @@
   date: April 14-15, 2024
   place: Lisbon, Portugal
   sub: SE
+
+- title: TECHDEBT
+  hindex:
+  year: 2024
+  id: techdebt2024
+  link: https://conf.researchr.org/home/TechDebt-2024
+  deadline: "2023-11-24 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: April 14-15, 2024
+  place: Lisbon, Portugal
+  sub: SE
+  note: Co-located with ICSE 2024
+
+- title: ICPC
+  hindex:
+  year: 2024
+  id: icpc2024
+  link: https://conf.researchr.org/home/icpc-2024
+  deadline: "2023-11-03 23:59:59"
+  timezone: AoE (UTC-12h)
+  date: April 14-15, 2024
+  place: Lisbon, Portugal
+  sub: SE
+  note: Co-located with ICSE 2024
 
 - title: SPLASH
   hindex:
