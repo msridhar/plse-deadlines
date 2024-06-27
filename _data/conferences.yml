@@ -1,4 +1,15 @@
 ---
+- title: PLDI
+  hindex:
+  year: 2025
+  id: pldi2025
+  link: TODO
+  deadline: TODO
+  timezone: AoE (UTC-12h)
+  date: June 23-27, 2025
+  place: Denver, Colorado, United States
+  sub: PL
+
 - title: POPL
   hindex:
   year: 2025
